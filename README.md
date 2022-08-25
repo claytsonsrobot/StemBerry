@@ -3,8 +3,11 @@ StemBerry is a python script that generates an interface and data collection too
 
 
 Instructions for running StemBerry:
+
 o	With python3 installed on your system, StemBerry can run as a clickable executable or from an IDE.
+
 o	On Windows, you may have to pip install a few python packages, depending on what you already have – listen to your errors to know what you need.
+
 o	On Linux, you’ll probably sudo apt-get install your packages.
 
 If you want to use StemBerry with Arduino for data collection, to see pretty numbers generated when you press “Start”, I can send a current copy of serialConnection_v11.ino.  When provided with a serial connection, StemBerry will collect and store data.
